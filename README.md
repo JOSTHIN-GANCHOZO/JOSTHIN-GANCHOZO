@@ -31,7 +31,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=angular,react,ts,js,html,css,bootstrap,tailwind,nodejs,express,fastapi,python,cs,dotnet,php,laravel,mysql,sqlite,git,github,vscode&perline=7" />
+<img src="https://skillicons.dev/icons?i=angular,react,ts,js,html,css,bootstrap,nodejs,express,cs,dotnet,php,laravel,mysql,sqlite,git,github,vscode&perline=7" />
 
 </div>
 
