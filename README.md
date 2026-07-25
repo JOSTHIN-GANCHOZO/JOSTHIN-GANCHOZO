@@ -6,7 +6,6 @@
 # 👋 ¡Hola! Soy Josthin Ganchozo
 
 ### 💻 Estudiante de Ingeniería en Ciencias Computacionales
-### 🚀 Apasionado por el Desarrollo Web, IA y Backend
 
 <p>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Angular+%7C+React+%7C+FastAPI;Python+%7C+Node.js+%7C+SQL;Siempre+aprendiendo+nuevas+tecnologías..." />
@@ -22,7 +21,7 @@
 
 📚 Actualmente estudio Ingeniería en Ciencias Computacionales.
 
-🤖 Interesado en Inteligencia Artificial y Machine Learning.
+🤖 Interesado en Inteligencia Artificial.
 
 🌎 Ecuador 🇪🇨
 
