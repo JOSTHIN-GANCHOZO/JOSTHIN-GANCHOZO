@@ -1,4 +1,4 @@
-```html
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:06B6D4&height=220&section=header&text=Josthin%20Ganchozo&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20|%20Full%20Stack%20Developer&descAlignY=58" />
