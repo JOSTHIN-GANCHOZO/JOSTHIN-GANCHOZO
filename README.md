@@ -82,7 +82,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:2563EB&height=120&section=footer"/>
 
-### ⭐ Gracias por visitar mi perfil ⭐
+###  Gracias por visitar mi perfil 
 
 </div>
 
