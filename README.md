@@ -8,7 +8,7 @@
 ### 💻 Estudiante de Ingeniería en Ciencias Computacionales
 
 <p>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Angular+%7C+React+%7C+FastAPI;Python+%7C+Node.js+%7C+SQL;Siempre+aprendiendo+nuevas+tecnologías..." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Angular+%7C+React+%7C;Node.js+%7C+SQL;Siempre+aprendiendo+nuevas+tecnologías..." />
 </p>
 
 </div>
@@ -31,7 +31,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=angular,react,ts,js,html,css,bootstrap,nodejs,express,cs,dotnet,php,laravel,mysql,sqlite,git,github,vscode&perline=7" />
+<img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,bootstrap,nodejs,express,cs,dotnet,mysql,sqlite,git,github,vscode&perline=7" />
 
 </div>
 
