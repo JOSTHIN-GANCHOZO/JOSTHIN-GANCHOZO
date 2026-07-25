@@ -37,15 +37,6 @@
 
 ---
 
-# 📊 Estadísticas
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=JOSTHIN-GANCHOZO&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOSTHIN-GANCHOZO&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 ---
 
@@ -66,59 +57,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=JOSTHIN-GANCHOZO&theme=tokyo-night"/>
 
 </div>
-
----
-
-# 🌟 Proyectos Destacados
-
-<table>
-<tr>
-
-<td width="50%">
-
-### 📅 Smart Scheduler AI
-
-Sistema inteligente que encuentra horarios libres entre múltiples calendarios utilizando algoritmos Greedy y Google Calendar API.
-
-**Tecnologías**
-
-- React
-- FastAPI
-- SQLite
-- Google Calendar API
-- OAuth2
-
-</td>
-
-<td width="50%">
-
-### 🤖 Machine Learning
-
-Modelos predictivos desarrollados en Python utilizando Scikit-Learn para clasificación y análisis de datos.
-
-**Tecnologías**
-
-- Python
-- Pandas
-- NumPy
-- Scikit-Learn
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 🏆 Trofeos
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=JOSTHIN-GANCHOZO&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</div>
-
----
 
 # 🌐 Conecta conmigo
 
@@ -147,4 +85,4 @@ Modelos predictivos desarrollados en Python utilizando Scikit-Learn para clasifi
 ### ⭐ Gracias por visitar mi perfil ⭐
 
 </div>
-```
+
