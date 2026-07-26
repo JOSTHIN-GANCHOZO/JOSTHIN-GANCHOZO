@@ -35,28 +35,7 @@
 
 </div>
 
----
 
-
----
-
-# 🔥 Racha de contribuciones
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=JOSTHIN-GANCHOZO&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Actividad
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JOSTHIN-GANCHOZO&theme=tokyo-night"/>
-
-</div>
 
 # 🌐 Conecta conmigo
 
